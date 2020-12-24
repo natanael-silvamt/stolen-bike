@@ -1,0 +1,25 @@
+
+.header_page {
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+}
+
+.header_page img {
+    widows: 60px;
+    height: 60px;
+    margin-top: 20px;
+    padding-right: 10px;
+}
+
+.sub_title_header {
+    float: left;
+    height: 20%;
+}
+
+.subtitle__header {
+    text-align: left;
+}
+

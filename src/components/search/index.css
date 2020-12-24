@@ -1,0 +1,42 @@
+.header_search {
+    display: flex;
+    justify-content: center;
+}
+
+.header_search .ant-input-search {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+    width: 30%;
+}
+
+.header_search .ant-space {
+    margin-top: 10px;
+}
+
+.header_search .button_search_date {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.header_search .result_search__total{
+    padding-left: 10%;
+    padding-top: 10px;
+}
+
+.result_search {
+    margin-top: 2%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.result_search .result_search__list {
+    width: 50%;
+    padding-bottom: 5%;
+}
+
+.result_search__list img {
+    height: 90px;
+    width: 100px;
+}
